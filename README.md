@@ -13,7 +13,16 @@
    
 -You can use swipe to delete anything from the list
 
-SCREEN SHOTS
+##SCREEN SHOTS:
 
- 
 ![alt text](https://github.com/mavnyin88/todolist/blob/master/IMG_1159.jpg "Screenshot of app")
+
+![alt text](https://github.com/mavnyin88/todolist/blob/master/IMG_1160.jpg "Screenshot of app")
+
+![alt text](https://github.com/mavnyin88/todolist/blob/master/IMG_1161.jpg "Screenshot of app")
+
+![alt text](https://github.com/mavnyin88/todolist/blob/master/IMG_1158.jpg "Screenshot of app")
+
+
+
+
