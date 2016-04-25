@@ -16,4 +16,4 @@
 SCREEN SHOTS
 
 Inline-style: 
-![alt text](https://github.com/mavnyin88/todolist/blob/master/IMG_1159.jpg "Screenshot of app)
+![alt text](https://github.com/mavnyin88/todolist/blob/master/IMG_1159.jpg "Screenshot of app")
