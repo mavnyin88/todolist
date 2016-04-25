@@ -12,3 +12,8 @@
 -You can use the "Second" tab to add to the current list
    
 -You can use swipe to delete anything from the list
+
+SCREEN SHOTS
+
+Inline-style: 
+![alt text](https://github.com/mavnyin88/todolist/blob/master/IMG_1159.jpg "Screenshot of app)
